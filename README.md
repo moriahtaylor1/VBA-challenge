@@ -29,3 +29,8 @@ In this homework assignment you will use VBA scripting to analyze real stock mar
 
 * Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
+- - -
+
+### Copyright
+
+Trilogy Education Services © 2020. All Rights Reserved.
