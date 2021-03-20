@@ -1,5 +1,5 @@
 # VBA-challenge
-Excel VBA assignment covering for loops, if-else loops, conditional formatting, and more in VBA script (due 03-13-2021)
+Excel VBA assignment covering for loops, if-else loops, conditional formatting, and more in VBA script (Due: 03-13-2021)
 
 ## Background
 
